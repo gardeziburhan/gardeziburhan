@@ -8,7 +8,7 @@ Burhan Gardezi
 
 💻 Software Engineer at TechDots | July 2022 - Present <br/>
 💻 Full stack developer at EpochClan | Oct 2021 - July 2022 <br/>
-🎓 Masters in Computer Science - Information Technology University, lahore | Oct 2020 - Present <br/>
+🎓 Masters in Computer Science - Information Technology University, lahore | Oct 2020 - June 2024 <br/>
 🎓 Bachelors in Electical Engineering - University of Central Punjab, Lahore | 2014 - 2018 <br/>
 
 📫 - You can reach me at: gardeziburhan@gmail.com
