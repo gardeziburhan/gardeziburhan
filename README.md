@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Burhan Gardezi
+Syed Burhan Ali Gardezi
 
 <a href="https://www.linkedin.com/in/burhan-gardezi/"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;<a href="https://stackoverflow.com/users/15414320/burhan-gardezi"><img height="30" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>&nbsp;&nbsp;<a href="https://leetcode.com/BurhanGardezi/"><img height="30" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>&nbsp;&nbsp;
 
