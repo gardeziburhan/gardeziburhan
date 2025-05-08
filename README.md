@@ -12,7 +12,7 @@ Syed Burhan Ali Gardezi
 🎓 Masters in Computer Science - Information Technology University | Oct 2020 - June 2024 <br/>
 🎓 Bachelors in Electical Engineering - University of Central Punjab | 2014 - 2018 <br/>
 
-📫 - You can reach me at: gardeziburhan@gmail.com
+📫 - You can reach me at: burhangardezi@gmail.com
 <br />
 <br />
 ### Available On:
